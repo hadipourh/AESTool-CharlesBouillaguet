@@ -1,0 +1,3130 @@
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>K_1[3,0]</variable>
+  <variable>K_0[3,0]</variable>
+  <variable>K_1[3,1]</variable>
+  <variable>K_0[3,1]</variable>
+  <variable>K_1[3,2]</variable>
+  <variable>K_0[3,2]</variable>
+  <variable>K_1[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[3,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>K_1[3,0]</variable>
+  <variable>K_0[3,0]</variable>
+  <variable>K_1[3,1]</variable>
+  <variable>K_0[3,1]</variable>
+  <variable>K_1[3,2]</variable>
+  <variable>K_0[3,2]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[3,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>K_1[3,0]</variable>
+  <variable>K_0[3,0]</variable>
+  <variable>K_1[3,1]</variable>
+  <variable>K_0[3,1]</variable>
+  <variable>K_1[3,2]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[3,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>K_1[3,0]</variable>
+  <variable>K_0[3,0]</variable>
+  <variable>K_1[3,1]</variable>
+  <variable>K_0[3,1]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[3,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>K_1[3,0]</variable>
+  <variable>K_0[3,0]</variable>
+  <variable>K_1[3,1]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[3,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>K_1[3,0]</variable>
+  <variable>K_0[3,0]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[3,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>K_1[3,0]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[3,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>K_1[2,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[2,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>K_0[2,2]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[2,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>K_1[2,2]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[2,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>K_0[2,1]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[2,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>K_1[2,1]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[2,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>K_0[2,0]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[2,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_1[2,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[2,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_1[1,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[1,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[1,2]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[1,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_1[1,2]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[1,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[1,1]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[1,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_1[1,1]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[1,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[1,0]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[1,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_1[1,0]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[1,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_1[0,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[0,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,2]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[0,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_1[0,2]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[0,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,1]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[0,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_1[0,1]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[0,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,0]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[0,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_1[0,0]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_1[0,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>guess1</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>guess1</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>guess2</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>guess2</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,3]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[3,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[3,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,1]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[3,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[3,0]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[3,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[2,3]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[2,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[2,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[2,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[2,1]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[2,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[2,0]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[2,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[1,3]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[1,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[1,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[1,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[1,1]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[1,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[1,0]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[1,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[0,3]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[0,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[0,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[0,1]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[0,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+  <variable>W_0[0,0]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>W_0[0,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>0</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[0,0]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+</variables>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>1</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+  <variable>X_0[0,2]</variable>
+</variables>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>2</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[0,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+  <variable>X_0[0,3]</variable>
+</variables>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>4</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+  <variable>X_0[1,0]</variable>
+</variables>
+<solver>
+  <time>6</time>
+  <memory>6</memory>
+  <output>5</output>
+  <type>1</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+</variables>
+<solver>
+  <time>6</time>
+  <memory>1</memory>
+  <output>6</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[2,0]</variable>
+  <variable>X_0[1,3]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[2,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>5</time>
+  <memory>1</memory>
+  <output>5</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[1,3]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>1</type>
+  <variables>  <variable>K_0[3,3]</variable>
+  <variable>X_0[3,3]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[3,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[3,3]</variable>
+</variables>
+</solver>
+</solver>
+<solver>
+  <time>4</time>
+  <memory>1</memory>
+  <output>4</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>K_0[1,3]</variable>
+  <variable>X_0[3,1]</variable>
+  <variable>X_0[1,3]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>1</type>
+  <variables>  <variable>K_0[1,3]</variable>
+  <variable>X_0[1,3]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[1,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[1,3]</variable>
+</variables>
+</solver>
+</solver>
+<solver>
+  <time>3</time>
+  <memory>1</memory>
+  <output>3</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+  <variable>X_0[3,1]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[3,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>2</time>
+  <memory>1</memory>
+  <output>2</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,2]</variable>
+  <variable>X_0[0,1]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[0,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[1,2]</variable>
+</variables>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+<solver>
+  <time>6</time>
+  <memory>1</memory>
+  <output>6</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>X_0[3,2]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[3,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>5</time>
+  <memory>1</memory>
+  <output>5</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+  <variable>X_0[2,1]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[2,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>4</time>
+  <memory>1</memory>
+  <output>4</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>X_0[3,0]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[3,0]</variable>
+</variables>
+</solver>
+<solver>
+  <time>3</time>
+  <memory>1</memory>
+  <output>3</output>
+  <type>2</type>
+  <variables>  <variable>X_0[1,1]</variable>
+  <variable>K_0[2,3]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[1,1]</variable>
+</variables>
+</solver>
+<solver>
+  <time>2</time>
+  <memory>1</memory>
+  <output>2</output>
+  <type>2</type>
+  <variables>  <variable>K_0[2,3]</variable>
+  <variable>X_0[2,3]</variable>
+  <variable>X_0[2,2]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[2,2]</variable>
+</variables>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>1</type>
+  <variables>  <variable>K_0[2,3]</variable>
+  <variable>X_0[2,3]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[2,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[2,3]</variable>
+</variables>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[1,0]</variable>
+</variables>
+</solver>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>1</type>
+  <variables>  <variable>K_0[0,3]</variable>
+  <variable>X_0[0,3]</variable>
+</variables>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[0,3]</variable>
+</variables>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>K_0[0,3]</variable>
+</variables>
+</solver>
+</solver>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[0,2]</variable>
+</variables>
+</solver>
+</solver>
+<solver>
+  <time>1</time>
+  <memory>1</memory>
+  <output>1</output>
+  <type>0</type>
+  <variables>  <variable>X_0[0,0]</variable>
+</variables>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
+</solver>
